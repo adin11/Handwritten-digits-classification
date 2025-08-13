@@ -52,6 +52,7 @@ This project demonstrates how to:
 Contains a Single `train.py` script that takes care of loading the data from MNIST, Splitting the data into batches for mini batch gradient descent optimization algorithm, Define the neural network architecture, train the neural network and evaluate the model performance.
 
 ---
+
 ## 📸 Output Screenshots
 
 **Classification Report**  
