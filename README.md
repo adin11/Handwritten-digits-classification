@@ -9,21 +9,6 @@ This project demonstrates how to:
 
 ---
 
-## 📸 Output Screenshots
-
-**Classification Report**  
-![Classification Report](images/report.png)
-
-**Confusion Matrix**  
-![Confusion Matrix](images/cm.png)
-
----
-
-## 📂 Repository Contents
-Contains a Single `train.py` script that takes care of loading the data from MNIST, Splitting the data into batches for mini batch gradient descent optimization algorithm, Define the neural network architecture, train the neural network and evaluate the model performance.
-
----
-
 ## 📌 What This Code Does
 
 1. **Load the MNIST Dataset**  
@@ -60,3 +45,17 @@ Contains a Single `train.py` script that takes care of loading the data from MNI
    - Runs model on test dataset  
    - Uses `torch.max` to get predicted class labels  
    - Computes accuracy using `sklearn.metrics.accuracy_score`
+
+---
+
+## 📂 Repository Contents
+Contains a Single `train.py` script that takes care of loading the data from MNIST, Splitting the data into batches for mini batch gradient descent optimization algorithm, Define the neural network architecture, train the neural network and evaluate the model performance.
+
+---
+## 📸 Output Screenshots
+
+**Classification Report**  
+![Classification Report](images/report.png)
+
+**Confusion Matrix**  
+![Confusion Matrix](images/cm.png)
