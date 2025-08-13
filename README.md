@@ -60,5 +60,3 @@ Contains a Single `train.py` script that takes care of loading the data from MNI
    - Runs model on test dataset  
    - Uses `torch.max` to get predicted class labels  
    - Computes accuracy using `sklearn.metrics.accuracy_score`
-
----
