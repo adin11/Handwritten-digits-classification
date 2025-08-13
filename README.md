@@ -11,10 +11,10 @@ This project demonstrates how to:
 
 ## 📸 Output Screenshots
 
-**Classification Report**
-![Training Loss](images/report.png)
+**Classification Report**  
+![Classification Report](images/report.png)
 
-**Confusion Matrix**
+**Confusion Matrix**  
 ![Confusion Matrix](images/cm.png)
 
 ---
